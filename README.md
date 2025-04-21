@@ -18,3 +18,16 @@ This is a C++ based University Management System using Object-Oriented Programmi
 ## How to Run
 1. Make sure you have a C++ compiler installed (e.g., g++, clang++).
 2. Compile the code:
+3. Run the executable:
+
+
+The system will automatically create and update `students.txt`, `faculty.txt`, and `courses.txt` files for data storage.
+
+
+## Author
+Muqeet Mahmood
+
+
+
+   
+

@@ -1,0 +1,31 @@
+5
+Dr. Emily Davis
+45
+F201
+Computer Science
+Artificial Intelligence
+85000
+Prof. Robert Wilson
+52
+F202
+Mathematics
+Complex Analysis
+92000
+Dr. Lisa Anderson
+38
+F203
+Physics
+Quantum Mechanics
+80000
+Prof. James Chen
+48
+F204
+Computer Science
+Database Systems
+87000
+Dr. Maria Rodriguez
+41
+F205
+Electrical Engineering
+Digital Signal Processing
+83000

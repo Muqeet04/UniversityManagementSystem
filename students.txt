@@ -1,0 +1,43 @@
+3
+John Smith
+20
+S101
+Computer Science
+Data Structures
+Algorithms
+Database Systems
+Operating Systems
+Web Development
+A
+B
+A
+C
+B
+Sarah Johnson
+22
+S102
+Electrical Engineering
+Circuit Analysis
+Digital Electronics
+Signal Processing
+Power Systems
+Embedded Systems
+B
+A
+B
+A
+A
+Michael Brown
+19
+S103
+Physics
+Mechanics
+Thermodynamics
+Quantum Physics
+Optics
+Particle Physics
+A
+A
+B
+B
+A
